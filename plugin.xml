@@ -4,6 +4,7 @@
     <cdn_request>
       <cdn name="https://cdn.jsdelivr.net"/>
       <cdn name="https://*.tile.openstreetmap.org"/>
+      <cdn name="https://*.openstreetmap.org"/>
     </cdn_request>
   </access_request>
   <publisher name="Steven Riehl">
